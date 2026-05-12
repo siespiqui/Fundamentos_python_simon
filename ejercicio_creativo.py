@@ -5,7 +5,7 @@
 # se hara una calculadora de divisas donde se pida primero 
 # la obciones de entre 4 divisas las cuales son euro dolar 
 # yenes o soles peruanos se le va a pedir cantidad de pesos 
-# colombianos y se hara la convercion que solicito.
+# colombianos y se hara*     la convercion que solicito.
 
 # 1. Mostrar opciones al usuario
 print("Bienvenido a la calculadora de divisas")
